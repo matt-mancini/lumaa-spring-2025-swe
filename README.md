@@ -14,6 +14,7 @@ A simple application for creating and managing tasks, built with **React + TypeS
 - [Frontend Setup & Run](#frontend-setup--run)
 - [Testing Notes](#testing-notes)
 - [Salary Expectations](#salary-expectations)
+- [Contact Information](#contact-information)
 
 
 ---
@@ -174,3 +175,7 @@ npm run start
 ---
 ## Salary Expectations
 No Salary Expectations
+
+---
+## Contact Information
+Matthew Mancini - mmmancini@umass.edu - 860-462-9160
